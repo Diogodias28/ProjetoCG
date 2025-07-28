@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -Wno-deprecated -DGL_SILENCE_DEPRECATION -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/generator.dir/Users/patriciabastos/Documents/universidade/CG/projetoGitHub/phase2/gen/generator.cpp.o -o generator  libdata_structs.a libtinyXML.a

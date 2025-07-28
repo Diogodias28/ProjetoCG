@@ -1,0 +1,6 @@
+/Users/patriciabastos/Documents/universidade/CG/projetoGitHub/phase2/outputs/CMakeFiles/engine.dir
+/Users/patriciabastos/Documents/universidade/CG/projetoGitHub/phase2/outputs/CMakeFiles/generator.dir
+/Users/patriciabastos/Documents/universidade/CG/projetoGitHub/phase2/outputs/CMakeFiles/data_structs.dir
+/Users/patriciabastos/Documents/universidade/CG/projetoGitHub/phase2/outputs/CMakeFiles/tinyXML.dir
+/Users/patriciabastos/Documents/universidade/CG/projetoGitHub/phase2/outputs/CMakeFiles/edit_cache.dir
+/Users/patriciabastos/Documents/universidade/CG/projetoGitHub/phase2/outputs/CMakeFiles/rebuild_cache.dir
